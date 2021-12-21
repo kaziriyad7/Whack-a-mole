@@ -3,8 +3,18 @@
 	height: 606px;
 	display: flex;
 	flex-wrap: wrap;
+	margin: 0 auto;
 }
 
+.headingSection {
+	display: flex;
+	justify-content: center;
+}
+
+.headingSection h2{
+	padding: 20px;
+	border:1px solid gray;
+}
 .square {
 	height: 200px;
 	width: 200px;
